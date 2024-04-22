@@ -17,7 +17,7 @@ Com base nesse contexto e nas premissas de negócios estabelecidas, podemos aval
 # Bibliotecas utilizadas
   1. Pandas
   2. Seaborn
-  3. Myplotlib
+  3. Matplotlib
   4. Cufflinks
   5. Chart_studio
 
